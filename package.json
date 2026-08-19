@@ -1,0 +1,9 @@
+{
+  "name": "inride-ai-website",
+  "version": "2.0.0",
+  "private": true,
+  "description": "INRIDE AI — Smart mobility for Algeria. Arabic-first, trilingual (AR/FR/EN), RTL marketing homepage.",
+  "scripts": {
+    "build": "echo 'Static Site'"
+  }
+}
